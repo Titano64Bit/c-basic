@@ -16,12 +16,5 @@ int main ()
             area = (b*h)/2;
             printf("Area=%d",area);
         }
-
-
-
-
-
-
-
     return 0;
 }
