@@ -1,4 +1,5 @@
-//
+//this program read an integer and determines if its positive, negative or zero
+//and tell if its even/odd using logical operators
 #include <stdio.h>
 int main ()
 {
