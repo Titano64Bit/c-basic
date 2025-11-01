@@ -1,9 +1,4 @@
-// This program reads five test scores from the user,
-// validates them, and calculates statistics using functions:
-// - average score
-// - highest score
-// - number of passing scores (>= 60)
-// The results are displayed in a formatted table
+//
 #include <stdio.h>
 float average_score(int a,int b,int c,int d,int e);
 int max_and_min(int a,int b,int c,int d,int e);
